@@ -1,7 +1,6 @@
 <!-- README.md -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Estudante-6C47FF?style=flat-square&logo=BookStack&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ciência_da_Computação-FF6B6B?style=flat-square&logo=Linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Frontend-00B4D8?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/-Desenvolvimento_Web-2D4059?style=flat-square&logo=CSS3&logoColor=white" />
 </p>
