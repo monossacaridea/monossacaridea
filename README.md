@@ -18,46 +18,6 @@ Estudante de Ciência da Computação com foco em desenvolvimento frontend e web
 
 ---
 
-## Projetos
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="background: #f8f9fa; border-radius: 8px; padding: 18px; width: 260px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h4 style="margin-top: 0;">Agência de Viagens</h4>
-    <p><strong>Projeto_Sistema</strong></p>
-    <p>Sistema desktop para agência de viagens com interface Swing. Cadastro de clientes, destinos e reservas.</p>
-    <p><span style="background: #6C47FF; color: white; padding: 4px 10px; border-radius: 20px; font-size: 12px;">Java</span> <span style="background: #FF6B6B; color: white; padding: 4px 10px; border-radius: 20px; font-size: 12px;">Swing</span></p>
-    <p><a href="https://github.com/monossacaridea/Projeto_Sistema">Repositório</a></p>
-  </div>
-
-  <div style="background: #f8f9fa; border-radius: 8px; padding: 18px; width: 260px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h4 style="margin-top: 0;">Projeto Final LTP I</h4>
-    <p><strong>Projeto_Final_LTP1</strong></p>
-    <p>Trabalho final da disciplina Linguagem e Técnicas de Programação I, utilizando Python.</p>
-    <p><span style="background: #00B4D8; color: white; padding: 4px 10px; border-radius: 20px; font-size: 12px;">Python</span></p>
-    <p><a href="https://github.com/monossacaridea/Projeto_Final_LTP1">Repositório</a></p>
-  </div>
-
-  <div style="background: #f8f9fa; border-radius: 8px; padding: 18px; width: 260px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h4 style="margin-top: 0;">Agência 2.0</h4>
-    <p><strong>Agencia-de-Viagens-2.0</strong> (colaboração)</p>
-    <p>Versão aprimorada do sistema de agência de viagens, com interface renovada. Em parceria com Gabriela Caldana.</p>
-    <p><span style="background: #6C47FF; color: white; padding: 4px 10px; border-radius: 20px; font-size: 12px;">Java</span> <span style="background: #FF6B6B; color: white; padding: 4px 10px; border-radius: 20px; font-size: 12px;">Swing</span></p>
-    <p><a href="https://github.com/gabicaldana/Agencia-de-Viagens-2.0">Repositório</a></p>
-  </div>
-
-  <div style="background: #f8f9fa; border-radius: 8px; padding: 18px; width: 260px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h4 style="margin-top: 0;">Tela Spotify</h4>
-    <p><strong>tela_Spotify</strong></p>
-    <p>Clone da interface de playlists do Spotify (não funcional) para estudo de design mobile.</p>
-    <p><span style="background: #2D4059; color: white; padding: 4px 10px; border-radius: 20px; font-size: 12px;">Android</span> <span style="background: #1DB954; color: white; padding: 4px 10px; border-radius: 20px; font-size: 12px;">XML</span></p>
-    <p><a href="https://github.com/monossacaridea/tela_Spotify">Repositório</a></p>
-  </div>
-
-</div>
-
----
-
 ## Habilidades
 
 | Área | Tecnologias |
